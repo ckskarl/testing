@@ -9,7 +9,7 @@ public class AppDriver {
 
 	public static void main(String[] args) throws IOException {
 		new RetailManager();
-		
+		System.out.println("test");
 
 	}
 
